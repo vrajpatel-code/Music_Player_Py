@@ -1,0 +1,4 @@
+python-vlc
+mutagen
+yt-dlp
+Pillow
